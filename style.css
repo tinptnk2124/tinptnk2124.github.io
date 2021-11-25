@@ -5,7 +5,13 @@ html,body {
     height: 100%;
 }
 
-.fullscr {
+.scr {
     width: 100%;
     height: 100%;
 }
+
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
